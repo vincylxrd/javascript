@@ -1,0 +1,14 @@
+// 1) Assinale com “X” os nomes de variáveis corretos segundo as normas do interpretador do JavaScript: 
+a) [   ] var _1nota 	b) [ x ] var prompt 	c) [ x ] var VariavelTeste 
+d) [   ] var 2nota_ 	e) [  ] var MinhaVariável 	f) [  ] var número  
+ 
+2) Assinale com “X” a resposta mais apropriada para a pergunta abaixo:  
+Pergunta: Para que servem os comentários dentro dos nossos códigos fonte? 
+a)	[   ] Comentários servem para criar pontos de parada para debug da aplicação. 
+b)	[ x ] Comentários servem para documentar e ou descrever as funcionalidades de um trecho de código com o propósito de auxiliar no entendimento do código e posterior manutenção. 
+c)	[   ] Comentários são utilizá-los para criação de trechos de códigos que serão executados somente em ambiente de desenvolvimento. 
+ 
+3) Assinale com “X” a resposta mais apropriada para a pergunta abaixo: 
+Pergunta: Qual a utilidade do operador de concatenação? 
+a)	[  ] Permite atribuir valores à variáveis. 
+b)	[ x ] Permite juntar variáveis e ou valores para formação de textos dinâmicos. 

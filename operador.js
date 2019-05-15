@@ -52,12 +52,12 @@ if(idade == 24 && nome == 'Aline') {
 }
 
 if (!idade == 24) {
-    console.log('! -> Não')
+    console.log('! -> Não');
 }
 
 if ((!idade == 24) && (nome =='Breno')) {
-    console.log('! -> Entrou Breno')
+    console.log('! -> Entrou Breno');
 }
 if (!(idade == 24 && nome =='Breno')) {
-    console.log('! -> Entrou Breno')
+    console.log('! -> Entrou Breno');
 }
