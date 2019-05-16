@@ -1,7 +1,7 @@
 const Funcionario = require('./Funcionario');
 class Programador extends Funcionario {
-    constructor(salariobase){
-        super(salariobase)
+    constructor(salariobase){ /// Sem o 'constructor' tambem funciona no Terminal.
+        super(salariobase)    ///
     }
 
     calcularSalario(){
